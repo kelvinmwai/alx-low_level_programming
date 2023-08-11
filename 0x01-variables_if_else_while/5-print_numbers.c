@@ -1,6 +1,7 @@
 #include<stdio.h>
-/*
- * main - A program that prints single digit numbers of base 10
+/**
+ * main - Entry point
+ * Description: 'print single digit numbers of base 10'
  * Return: 0
  */
 int main(void)
